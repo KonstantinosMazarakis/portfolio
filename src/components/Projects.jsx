@@ -152,80 +152,80 @@ const Projects = () => {
         />
         <div className='d-flex'>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/1.png" target="_blank">
+            <a href="/car_dealer/1.png" target="_blank">
               <CardMedia
                 className='hover'
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/1.png"
+                image="/car_dealer/1.png"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/2.png" target="_blank">
+            <a href="/car_dealer/2.png" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/2.png"
+                image="/car_dealer/2.png"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/3.png" target="_blank">
+            <a href="/car_dealer/3.png" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/3.png"
+                image="/car_dealer/3.png"
               /></a>
           </div>
         </div>
         <div className='d-flex'>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/4.png" target="_blank">
+            <a href="/car_dealer/4.png" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/4.png"
+                image="/car_dealer/4.png"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/5.png" target="_blank">
+            <a href="/car_dealer/5.png" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/5.png"
+                image="/car_dealer/5.png"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/6.png" target="_blank">
+            <a href="/car_dealer/6.png" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/6.png"
+                image="/car_dealer/6.png"
               /></a>
           </div>
         </div>
         <div className='d-flex justify-content-center'>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/7.png" target="_blank">
+            <a href="/car_dealer/7.png" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/7.png"
+                image="/car_dealer/7.png"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/car_dealer/8.png" target="_blank">
+            <a href="/car_dealer/8.png" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/car_dealer/8.png"
+                image="/car_dealer/8.png"
               /></a>
           </div>
         </div>
