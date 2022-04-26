@@ -20,8 +20,9 @@ const Resume = () => {
 
   return <div className='parent1'>
 
-      <object data="/downloads/resume.pdf" className=' blur' type="application/pdf" width="100%" height="900px">
-    </object>
+      {/* <object data="/downloads/resume.pdf" className=' blur' type="application/pdf" width="100%" height="900px">
+    </object> */}
+    <embed src="/downloads/resume.pdf" type="application/pdf" width="100%" height="900px" className='blur' />
   </div>
 
 

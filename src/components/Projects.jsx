@@ -26,51 +26,51 @@ const Projects = () => {
         />
         <div className='d-flex'>
           <div className='inline'>
-            <a href="/images/projects/three_game_series/1.png" target="_blank">
+            <a href="/images/projects/three_game_series/1.PNG" target="_blank">
               <CardMedia
                 className='hover'
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/three_game_series/1.png"
+                image="/images/projects/three_game_series/1.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/three_game_series/2.png" target="_blank">
+            <a href="/images/projects/three_game_series/2.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/three_game_series/2.png"
+                image="/images/projects/three_game_series/2.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/three_game_series/3.png" target="_blank">
+            <a href="/images/projects/three_game_series/3.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/three_game_series/3.png"
+                image="/images/projects/three_game_series/3.PNG"
               /></a>
           </div>
         </div>
         <div className='d-flex justify-content-center'>
           <div className='inline'>
-            <a href="/images/projects/three_game_series/4.png" target="_blank">
+            <a href="/images/projects/three_game_series/4.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/three_game_series/4.png"
+                image="/images/projects/three_game_series/4.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/three_game_series/5.png" target="_blank">
+            <a href="/images/projects/three_game_series/5.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/three_game_series/5.png"
+                image="/images/projects/three_game_series/5.PNG"
               /></a>
           </div>
         </div>
@@ -81,7 +81,7 @@ const Projects = () => {
               <li className='mt-3'>Front-end: React, Bootstrap, Axios</li>
               <li>Back-end: Express, MongoDB, Mongoose</li>
               <li>Languages: JavaScript, HTML, CSS</li>
-              <a href="https://github.com/KonstantinosMazarakis/Team_Manager"><img className='crdimg' height="50" src="/images/languages/github.png" alt="github" /></a>
+              <a href="https://github.com/KonstantinosMazarakis/Team_Manager"><img className='crdimg' height="50" src="/images/languages/github.PNG" alt="github" /></a>
             </ul>
           </Typography>
         </CardContent>
@@ -92,17 +92,17 @@ const Projects = () => {
           title="Best stocks for trading"
         />
        <div className='d-flex justify-content-center'>
-       <a href="/images/projects/watchlist/1.png" target="_blank"><CardMedia
+       <a href="/images/projects/watchlist/1.PNG" target="_blank"><CardMedia
           component="img"
           height="294"
           alt="Paella dish"
-          image="/images/projects/watchlist/1.png"
+          image="/images/projects/watchlist/1.PNG"
         /></a>
-               <a href="/images/projects/watchlist/2.png" target="_blank"><CardMedia
+               <a href="/images/projects/watchlist/2.PNG" target="_blank"><CardMedia
           component="img"
           height="294"
           alt="Paella dish"
-          image="/images/projects/watchlist/2.png"
+          image="/images/projects/watchlist/2.PNG"
         /></a>
        </div>
         <CardContent>
@@ -112,7 +112,7 @@ const Projects = () => {
               <li className='mt-3'>Front-end: -</li>
               <li>Back-end: Python, Pandas</li>
               <li>Languages: Python</li>
-              <a href="https://github.com/KonstantinosMazarakis/watchlist"><img className='crdimg' height="50" src="/images/languages/github.png" alt="github" /></a>
+              <a href="https://github.com/KonstantinosMazarakis/watchlist"><img className='crdimg' height="50" src="/images/languages/github.PNG" alt="github" /></a>
             </ul>
           </Typography>
         </CardContent>
@@ -128,7 +128,7 @@ const Projects = () => {
           component="img"
           height="294"
           alt="Paella dish"
-          image="/images/projects/pokedex/1.png"
+          image="/images/projects/pokedex/1.PNG"
         /></a>
         <CardContent>
           <Typography variant="body2" color="text.secondary">
@@ -138,8 +138,8 @@ const Projects = () => {
               <li>Back-end: -</li>
               <li>Languages: HTML ,CSS, JavaScript</li>
               <div>
-                <a href="https://github.com/KonstantinosMazarakis/pokedex"><img className='crdimg' height="50" src="/images/languages/github.png" alt="github" /></a>
-                <a href="https://konstantinosmazarakis.github.io/pokedex/"><img className='crdimg' height="50" src="/images/www.png" alt="www" /></a>
+                <a href="https://github.com/KonstantinosMazarakis/pokedex"><img className='crdimg' height="50" src="/images/languages/github.PNG" alt="github" /></a>
+                <a href="https://konstantinosmazarakis.github.io/pokedex/"><img className='crdimg' height="50" src="/images/www.PNG" alt="www" /></a>
               </div>
             </ul>
           </Typography>
@@ -152,80 +152,80 @@ const Projects = () => {
         />
         <div className='d-flex'>
           <div className='inline'>
-            <a href="/car_dealer/1.png" target="_blank">
+            <a href="/car_dealer/1.PNG" target="_blank">
               <CardMedia
                 className='hover'
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/1.png"
+                image="/car_dealer/1.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/car_dealer/2.png" target="_blank">
+            <a href="/car_dealer/2.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/2.png"
+                image="/car_dealer/2.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/car_dealer/3.png" target="_blank">
+            <a href="/car_dealer/3.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/3.png"
+                image="/car_dealer/3.PNG"
               /></a>
           </div>
         </div>
         <div className='d-flex'>
           <div className='inline'>
-            <a href="/car_dealer/4.png" target="_blank">
+            <a href="/car_dealer/4.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/4.png"
+                image="/car_dealer/4.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/car_dealer/5.png" target="_blank">
+            <a href="/car_dealer/5.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/5.png"
+                image="/car_dealer/5.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/car_dealer/6.png" target="_blank">
+            <a href="/car_dealer/6.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/6.png"
+                image="/car_dealer/6.PNG"
               /></a>
           </div>
         </div>
         <div className='d-flex justify-content-center'>
           <div className='inline'>
-            <a href="/car_dealer/7.png" target="_blank">
+            <a href="/car_dealer/7.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/7.png"
+                image="/car_dealer/7.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/car_dealer/8.png" target="_blank">
+            <a href="/car_dealer/8.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/car_dealer/8.png"
+                image="/car_dealer/8.PNG"
               /></a>
           </div>
         </div>
@@ -237,7 +237,7 @@ const Projects = () => {
               <li>Back-end: Python, Flask, MYSQL</li>
               <li>Languages: HTML ,CSS, Python</li>
               <div>
-                <a href="https://github.com/KonstantinosMazarakis/exam"><img className='crdimg' height="50" src="/images/languages/github.png" alt="github" /></a>
+                <a href="https://github.com/KonstantinosMazarakis/exam"><img className='crdimg' height="50" src="/images/languages/github.PNG" alt="github" /></a>
               </div>
             </ul>
           </Typography>
@@ -252,51 +252,51 @@ const Projects = () => {
         />
         <div className='d-flex'>
           <div className='inline'>
-            <a href="/images/projects/meetUp/1.png" target="_blank">
+            <a href="/images/projects/meetUp/1.PNG" target="_blank">
               <CardMedia
                 className='hover'
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/meetUp/1.png"
+                image="/images/projects/meetUp/1.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/meetUp/2.png" target="_blank">
+            <a href="/images/projects/meetUp/2.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/meetUp/2.png"
+                image="/images/projects/meetUp/2.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/meetUp/3.png" target="_blank">
+            <a href="/images/projects/meetUp/3.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/meetUp/3.png"
+                image="/images/projects/meetUp/3.PNG"
               /></a>
           </div>
         </div>
         <div className='d-flex justify-content-center'>
           <div className='inline'>
-            <a href="/images/projects/meetUp/4.png" target="_blank">
+            <a href="/images/projects/meetUp/4.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/meetUp/4.png"
+                image="/images/projects/meetUp/4.PNG"
               /></a>
           </div>
           <div className='inline'>
-            <a href="/images/projects/meetUp/5.png" target="_blank">
+            <a href="/images/projects/meetUp/5.PNG" target="_blank">
               <CardMedia
                 component="img"
                 height="100"
                 alt="Paella dish"
-                image="/images/projects/meetUp/5.png"
+                image="/images/projects/meetUp/5.PNG"
               /></a>
           </div>
         </div>
@@ -308,7 +308,7 @@ const Projects = () => {
               <li>Back-end: C#, Entity, MYSQL</li>
               <li>Languages: HTML ,CSS, C#, NET.</li>
               <div>
-                <a href="https://github.com/KonstantinosMazarakis/beltExam"><img className='crdimg' height="50" src="/images/languages/github.png" alt="github" /></a>
+                <a href="https://github.com/KonstantinosMazarakis/beltExam"><img className='crdimg' height="50" src="/images/languages/github.PNG" alt="github" /></a>
               </div>
             </ul>
           </Typography>
